@@ -1,1 +1,1 @@
-
+This folder contains my day‑by‑day cybersecurity learning notes. Each subfolder represents one day of study, including commands practiced, concepts learned, and hands‑on exercises completed. My goal is to document my consistency, growth, and technical development over time.
